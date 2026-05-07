@@ -79,9 +79,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/AhmadMutiMuhyiddin.com", label: "GitHub Profile" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/AhmadMutiMuhyiddin.com/", label: "LinkedIn Profile" },
-  { icon: Instagram, link: "https://www.instagram.com/AhmadMutiMuhyiddin.com_/?hl=id", label: "Instagram Profile" }
+  { icon: Github, link: "https://github.com/mutiyit", label: "GitHub Profile" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/ahmad muti muhyiddin/", label: "LinkedIn Profile" },
+  { icon: Instagram, link: "https://www.instagram.com/muhyiddin8", label: "Instagram Profile" }
 ];
 
 const Home = () => {
@@ -154,9 +154,9 @@ const Home = () => {
             "@type": "Person",
             "name": "Ahmad Muti Muhyiddin ",
             "jobTitle": "Frontend Developer",
-            "url": "https://AhmadMutiMuhyiddin.com",
+            "url": "https://MutiMuhyidin@gmail.com",
             "sameAs": [
-              "https://github.com/AhmadMutiMuhyiddin.com",
+              "https://github.com/mutiyit.com",
               "https://www.linkedin.com/in/AhmadMutiMuhyiddin.com/",
               "https://www.instagram.com/AhmadMutiMuhyiddin.com_/"
             ]

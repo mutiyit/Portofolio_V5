@@ -24,34 +24,34 @@ const socialLinks = [
   {
     name: "Instagram",
     displayName: "Instagram",
-    subText: "@AhmadMutiMuhyiddin.com_",
+    subText: "@muhyiddin8",
     icon: Instagram,
-    url: "https://www.instagram.com/AhmadMutiMuhyiddin.com_/?hl=id",
+    url: "https://www.instagram.com/muhyiddin8?igsh=MTMOM3FIZ2QwNTQ0cw==",
     color: "#E4405F",
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]",
   },
   {
     name: "YouTube",
     displayName: "Youtube",
-    subText: "@Ahmad Muti Muhyiddin zulfar",
+    subText: "@ahmadmuhyiddin4325",
     icon: Youtube,
-    url: "https://www.youtube.com/@Ahmad Muti Muhyiddin_zulfar",
+    url: "https://youtube.com/@ahmadmuhyiddin4325?si=cFsGjOMcFuYIaxL",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
   {
     name: "GitHub",
     displayName: "Github",
-    subText: "@AhmadMutiMuhyiddin.com",
+    subText: "mutiyit",
     icon: Github,
-    url: "https://github.com/AhmadMutiMuhyiddin.com",
+    url: "https://github.com/mutiyit",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]",
   },
   {
     name: "TikTok",
-    displayName: "Tiktok",
-    subText: "@Ahmad Muti Muhyiddin_zulfar",
+    displayName: "@ahmadmuhyiddin837",
+    subText: "https://www.tiktok.com/@ahmadmuhyiddin837?_r=1&_t=ZS-96AehUyqnLD",
     icon: ({ className, ...props }) => (
       <svg
         width="24px"
@@ -89,7 +89,7 @@ const socialLinks = [
         </g>
       </svg>
     ),
-    url: "https://tiktok.com/@Ahmad Muti Muhyiddin_zulfar",
+    url: "https://tiktok.com/@ahmadmuhyiddin837",
     color: "black",
     gradient: "from-[#000000] via-[#25F4EE] to-[#FE2C55]",
   },
